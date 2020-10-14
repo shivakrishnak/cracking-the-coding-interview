@@ -1,4 +1,4 @@
-package random;
+package sk;
 
 //{1,2,4,5,7,8,9} - this is a sorted array ,
 // try finding 2 numbers from this array whose sum is equal to 10 , no extra space and solve it in O(n)
